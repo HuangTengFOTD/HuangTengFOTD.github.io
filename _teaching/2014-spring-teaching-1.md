@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assisstant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-teaching-1
+venue: "University, Department"
+date: 2023-09-01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I work as a teaching assisstant for a undergraduate course during the fall semester in 2023. 
 
-Heading 1
+Main Work
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Experimental courses of analogue and digital circuits.
