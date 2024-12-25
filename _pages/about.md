@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student conducting research on blood pressure measurement and pulse waves.
+I'm a graduate student conducting research on blood pressure measurement, pulse waves, and Korotkoff sounds.
