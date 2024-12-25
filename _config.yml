@@ -21,11 +21,11 @@ repository               : "HuangTengFOTD/HuangTengFOTD.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "trees_fog_moon_1109440_3840x2160.png"
   name             : "Huang Teng"
   pronouns         : "he/his" # example: "he/his"  
   bio              : "A graduate student."
-  location         : "Earth"
+  location         : "China"
   employer         : #"Red Brick University"
   uri              : "https://huangtengfotd.github.io" # URL
   email            : #"none@example.org" 
