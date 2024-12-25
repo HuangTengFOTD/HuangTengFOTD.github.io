@@ -21,7 +21,7 @@ repository               : "HuangTengFOTD/HuangTengFOTD.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "trees_fog_moon_1109440_3840x2160.png"
+  avatar           : "trees_fog_moon_1109440_720x720.png"
   name             : "Huang Teng"
   pronouns         : "he/his" # example: "he/his"  
   bio              : "A graduate student."
