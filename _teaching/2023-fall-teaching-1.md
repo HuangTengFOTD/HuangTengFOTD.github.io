@@ -3,7 +3,7 @@ title: "Teaching Assisstant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-2024-fall-teaching-1
-venue: "University, Department"
+venue: "Peking University"
 date: 2023-09-01, 2024-09-01
 location: "Beijing, China"
 ---
